@@ -1,0 +1,33 @@
+# ===== Compiled binaries =====
+*.exe
+*.out
+*.app
+*.bin
+
+# ===== Object files =====
+*.o
+*.obj
+
+# ===== Static & dynamic libraries =====
+*.a
+*.so
+*.dll
+*.dylib
+
+# ===== Build directories =====
+build/
+bin/
+obj/
+
+# ===== Debug / core dumps =====
+*.log
+*.core
+
+# ===== IDE / Editor files =====
+.vscode/
+.idea/
+*.swp
+
+# ===== OS generated files =====
+.DS_Store
+Thumbs.db
